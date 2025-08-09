@@ -2,6 +2,7 @@
 
 A simple static HTML page served by an NGINX web server running inside a Docker container.
 
+![Project Screenshot](dockerNGINXss.jpg)
 ## How to Run
 
 ```bash
