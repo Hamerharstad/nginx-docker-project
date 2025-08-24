@@ -21,12 +21,12 @@ It serves a custom static website from an `html/` directory, making it a great i
 ---
 
 ## 📂 Project Structure
-
-nginx-docker-project/ 
-├── Dockerfile 
-├── html/ 
-│ └── index.html 
-└── README.md 
+```text
+nginx-docker-project/
+├── Dockerfile        
+├── html/             
+│   └── index.html    
+└── README.md         
 
 ---
 
