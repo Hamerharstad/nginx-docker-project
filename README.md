@@ -21,10 +21,11 @@ It serves a custom static website from an `html/` directory, making it a great i
 ---
 
 ## 📂 Project Structure
+
 nginx-docker-project/
 ├── Dockerfile # Instructions for building the NGINX image
 ├── html/ # Custom static website content
-│ └── index.html
+│ └── index.html # Example homepage
 └── README.md # Project documentation
 
 ---
