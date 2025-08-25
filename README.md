@@ -27,7 +27,7 @@ nginx-docker-project/
 ├── html/             
 │   └── index.html    
 └── README.md         
-
+```
 ---
 
 ## ▶️ How to Run
